@@ -642,7 +642,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Panel pnlSuperior;
+         private System.Windows.Forms.Panel pnlSuperior;
         private System.Windows.Forms.Label lblTempo;
         private System.Windows.Forms.Label lblPontos;
         private System.Windows.Forms.Button btnRestart;
